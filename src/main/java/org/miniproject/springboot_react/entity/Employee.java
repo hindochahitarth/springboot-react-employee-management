@@ -1,4 +1,4 @@
-package entity;
+package org.miniproject.springboot_react.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

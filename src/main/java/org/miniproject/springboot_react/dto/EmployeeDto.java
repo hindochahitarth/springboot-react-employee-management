@@ -1,4 +1,4 @@
-package dto;
+package org.miniproject.springboot_react.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

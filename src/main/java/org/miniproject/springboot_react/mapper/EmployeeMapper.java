@@ -1,7 +1,7 @@
-package mapper;
+package org.miniproject.springboot_react.mapper;
 
-import dto.EmployeeDto;
-import entity.Employee;
+import org.miniproject.springboot_react.dto.EmployeeDto;
+import org.miniproject.springboot_react.entity.Employee;
 
 public class EmployeeMapper {
 
